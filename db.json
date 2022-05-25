@@ -1,0 +1,45 @@
+{
+  "dairy": [
+    {
+      "id": 1,
+      "name": "whole milk",
+      "quantity": 1,
+      "brand": "great value",
+      "price": 4.86,
+      "dep": "dairy"
+    }
+  ],
+
+  "Frozen": [
+    {
+      "id": 1,
+      "name": "mint coco chip",
+      "quantity": 1,
+      "brand": "turkey hill",
+      "price": 3.36,
+      "dep": "frozen"
+    }
+  ],
+
+  "generalMerch": [
+    {
+      "id": 1,
+      "name": "coffee pot",
+      "quantity": 1,
+      "brand": "mr. coffee",
+      "price": 20.69,
+      "dep": "generalMerch"
+    }
+  ],
+
+  "grocery": [
+    {
+      "id": 1,
+      "name": "apples",
+      "quantity": 5,
+      "brand": "great value",
+      "price": 0,
+      "dep": "grocery"
+    }
+  ]
+}
