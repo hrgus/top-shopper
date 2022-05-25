@@ -6,10 +6,12 @@ import DairyPage from "./Components/DairyPage";
 import FrozenPage from "./Components/FrozenPage";
 import GeneralMerchPage from "./Components/GeneralMerchPage";
 import GroceryPage from "./Components/GroceryPage";
+import NavBar from "./Components/NavBar";
 
 function App() {
   return (
     <div className="App">
+      <NavBar />
       <Switch>
         <Route exact path="/">
           <HomePage />
